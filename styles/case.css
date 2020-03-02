@@ -7,9 +7,15 @@ body {
 body {
   display: flex;
   align-items: center;
-  padding: 2em;
+  padding: 40pt;
 }
 
 #red{
   color: red;
+}
+a{
+  color: darkblue;
+}
+hr{
+  background-color:purple
 }
